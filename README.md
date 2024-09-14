@@ -14,3 +14,6 @@ An **alarm clock** is a device designed to wake individuals at a specific time, 
 
 **Flow Chart**
 ![image](https://github.com/user-attachments/assets/359f6f9b-1a61-4bcf-9c9f-bd59c2535cdc)
+
+**Block Diagram**
+![image](https://github.com/user-attachments/assets/42a888c3-4e77-4162-88d9-89f70aaced2c)
